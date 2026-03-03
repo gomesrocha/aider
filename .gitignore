@@ -17,4 +17,3 @@ aider/_version.py
 .gitattributes
 tmp.benchmarks/
 .docker_bash_history
-raider/target/
